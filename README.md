@@ -1,0 +1,2 @@
+# Battery-Indicator-Python-Script
+So basically in this python script, I simply monitor the battery percentage and also look for sockets is get a plug or not based on that you will get notified and notified in the sense of you will hear the voice which will warn you or about your battery percentage as well as on your screen notification will be appear in right side corner so that it will draw your attention.
